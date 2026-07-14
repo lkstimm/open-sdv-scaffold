@@ -97,7 +97,7 @@ Watch the repo; contribute a silo you hate.
 
 ## Who's behind this
 
-Curated by [The New Automotive](https://the-new-automotive-marketplace.vercel.app/?utm_source=github&utm_medium=oss&utm_campaign=open-sdv-scaffold)
+Curated by [The New Automotive](https://thenewautomotive.com/?utm_source=github&utm_medium=oss&utm_campaign=open-sdv-scaffold)
 — the marketplace for modern automotive software tooling.
 Inquiries: lukas@alphavant.com
 
